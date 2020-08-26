@@ -60,19 +60,22 @@ footer {
 
 @media (min-width: 768px) {
   header {
-    background-color:darkseagreen ;
+    background-color:darkseagreen;
   }
 
   #column-1 {
-    background-color:darkslategrey ;
+    background-color:darkslategrey;
+    width: 50%;
   }
 
   #column-2 {
-    background-color:darksalmon ;
+    background-color:darksalmon;
+    width:50%;
   }
 
   #column-3 {
-    background-color:olivedrab ;
+    background-color:olivedrab;
+    width:100%;
   }
 
   footer {
@@ -89,15 +92,18 @@ footer {
   }
 
   #column-1 {
-    background-color:lavender ;
+    background-color:lavender;
+    width:33.3%;
   }
 
   #column-2 {
-    background-color:orchid ;
+    background-color:orchid;
+    width:33.3%;
   }
 
   #column-3 {
-    background-color:plum ;
+    background-color:plum;
+    width:33.3%;
   }
 
   footer {
